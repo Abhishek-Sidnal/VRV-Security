@@ -3,7 +3,7 @@
 ## Project Overview
 The VRV Security Dashboard is a web-based admin panel designed for managing users, roles, and permissions. It provides an intuitive UI for managing users, roles, and their permissions, along with authentication functionalities for the admin.
 
-- **Demo link**: [Click Here](https://vrv-security-ay5bf2r9u-abhishek-sidnals-projects.vercel.app/)
+- **Demo link**: [Click Here](https://vrv-security-p2wk.onrender.com)
 - #### Login Credentials: 
     - **Username**: ``` admin ```
     - **Password**: ``` admin ```
@@ -25,14 +25,6 @@ The VRV Security Dashboard is a web-based admin panel designed for managing user
   - Fully responsive with a mobile-friendly navigation bar.
 
 ---
-
-## Setup Instructions
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/vrv-security-dashboard.git
-cd vrv-security-dashboard
-```
 
 ## Setup Instructions
 
