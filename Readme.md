@@ -32,7 +32,7 @@ The VRV Security Dashboard is a web-based admin panel designed for managing user
 ```bash
 git clone https://github.com/your-username/vrv-security-dashboard.git
 cd vrv-security-dashboard
-
+```
 
 ## Setup Instructions
 
