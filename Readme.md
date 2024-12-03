@@ -38,7 +38,7 @@ cd vrv-security-dashboard
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/vrv-security-dashboard.git
+git clone https://github.com/Abhishek-Sidnal/VRV-Security.git
 cd vrv-security-dashboard
 ```
 
